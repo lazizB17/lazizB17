@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47vgvafoat5t133cn4uvpngqofxu5vcgrtrw6w5w9a&rid=giphy.gif&ct=g" width="300"/></p>
+<p align="center"><img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47vgvafoat5t133cn4uvpngqofxu5vcgrtrw6w5w9a&rid=giphy.gif&ct=g" width="300"/></p> <p align="center"><img src="[https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47vgvafoat5t133cn4uvpngqofxu5vcgrtrw6w5w9a&rid=giphy.gif&ct=g](https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/200w.gif?cid=82a1493b40cvnonstcynwbqzaz7yrgyrof4df7k43nty0aa1&rid=200w.gif&ct=g)" width="300"/></p>
 
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
 <h3 align="center">A passionate Mobile developer from Uzbekistan</h3>
