@@ -1,7 +1,8 @@
 <p align="center"><img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47vgvafoat5t133cn4uvpngqofxu5vcgrtrw6w5w9a&rid=giphy.gif&ct=g" width="300"/></p> 
 
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
-<h3 align="center">A passionate Mobile developer from Uzbekistan</h3>
+<h3 align="center">A passionate Mobile developer <p align="center"><img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47vgvafoat5t133cn4uvpngqofxu5vcgrtrw6w5w9a&rid=giphy.gif&ct=g" width="100"/></p> from Uzbekistan</h3>
+
 <img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribble.com/users/1162077/screenshots//3848914/programmer.gif”>
 
 
